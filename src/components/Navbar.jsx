@@ -22,7 +22,7 @@ const Navbar = () => {
             Contacts
           </a>
         </div>
-        <button className="bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 rounded-lg">
+        <button className="bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline transform transition-transform duration-300 hover:scale-105 px-4 rounded-full">
           Connect Me
         </button>
       </div>
