@@ -8,10 +8,13 @@ function App() {
 
   return (
     <>
+    <div className="bg-black h-screen">
+
       <Navbar />
-      <div>
+      <div className="pt-28 pb-10">
       <Intro />
       </div>
+    </div>
     </>
   );
 }
