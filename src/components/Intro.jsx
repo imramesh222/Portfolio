@@ -3,11 +3,11 @@ import React from "react";
 const Intro = () => {
   return (
     <div className="bg-black">
-      <div className="rounded-full flex justify-center items-center py-4 ">
+      <div className="rounded-full flex justify-center items-center py-4   ">
         <img
           src="./images/ramesh.jpg"
           alt="ramesh"
-          className="rounded-full"
+          className="rounded-full transform transition-transform duration-300 hover:scale-105"
           width={"150px"}
           height={"150px"}
         />
@@ -24,8 +24,8 @@ const Intro = () => {
       <p className="text-gray-600 py-2">I specialized in building modern and responsive web applications.</p>
 
       <div className="flex justify-center items-center py-3 ">
-    <button className="text-white text-l rounded-full  bg-gradient-to-t from-green-400 to-blue-600 px-3 py-2 me-4">Contact with me</button>
-    <button className="text-white text-l rounded-full bg-gradient-to-tr from-red-500 to-orange-500 px-3 py-2">Resume</button>
+    <button className="text-white text-l rounded-full  bg-gradient-to-t from-green-400 to-blue-600 px-3 py-2 me-4 transform transition-transform duration-300  hover:scale-105">Contact with me</button>
+    <button className="text-white text-l rounded-full bg-gradient-to-tr from-red-500 to-orange-500 px-3 py-2 transform transition-transform duration-300  hover:scale-105">Resume</button>
       </div>
       </div>
     </div>
