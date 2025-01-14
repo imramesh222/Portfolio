@@ -12,7 +12,7 @@ function App() {
     <div className="bg-black">
 
       <Navbar />
-      <div className="pt-28 pb-10">
+      <div className="pt-28 pb-36">
       <Intro />
       </div>
       <About/>

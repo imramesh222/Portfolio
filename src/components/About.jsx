@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <div>
-        <img src="./images/ramesh.jpg" alt="" className='w-52'/>
+        <img src="./images/ramesh.jpg" alt="" className='w-52 transform transistion-transform duration-300'/>
       </div>
     </div>
   )
