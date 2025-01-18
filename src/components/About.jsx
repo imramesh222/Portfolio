@@ -18,11 +18,10 @@ const About = () => {
           />
           <div className="block">
             <div>
-              <p className="text-white">
+              <p className="text-white mb-5">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic,
                 officia quo eveniet facere alias, perferendis vitae est impedit
-                velit corporis a? Culpa, cupiditate adipisci? Fugiat aliquam
-                perferendis natus harum nobis.
+                perferendis natus harum nobis Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate nostrum sed numquam ea quis? Quia, ipsum molestiae quasi quod animi laudantium doloremque. Voluptatibus natus ullam obcaecati nesciunt harum enim beatae.
               </p>
               <div className="space-y-4 text-white">
                 <div className="flex items-center">
