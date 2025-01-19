@@ -128,7 +128,7 @@ const Services = () => {
               </h1>
               <p className="text-white">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, alias.
+                Aspernatur.lorem.
               </p>
               <a href="#">
                 <h2 className="font-serif bg-gradient-to-r from-green-400 to-blue-600 text-transparent bg-clip-text">
